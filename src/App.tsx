@@ -1,5 +1,6 @@
 import ColorHarmonizer from "./assets/components/ColorHarmonizer"
 import ContrastChecker from "./assets/components/ContrastChecker"
+import RandomColorFlower from "./assets/components/RandomColorFlower"
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
       <ColorHarmonizer />
       <hr />
       <ContrastChecker />
+      <RandomColorFlower />
     </div>
   )
 }
